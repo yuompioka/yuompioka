@@ -1,4 +1,4 @@
-# Hello, I'm yuompioka [jʊm'paɪɒkʌ]
+# Hello, I'm yuompioka [jʊm'pɪɒkʌ]
 21 y.o. student learning computer engineering
 
 ## **Skillset**<br>
@@ -10,7 +10,7 @@
 ![Static Badge](https://img.shields.io/badge/Electron-white?style=for-the-badge&logo=electron)
 ![Static Badge](https://img.shields.io/badge/Verilog-black?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/SystemVerilog-black?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/RISCV_Assembly-black?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/RISCV/MIPS_Assembly-black?style=for-the-badge)
 <br>
 ## **Instruments**<br>
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visualstudiocode)
