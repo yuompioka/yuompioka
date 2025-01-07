@@ -1,5 +1,5 @@
 # Hello, I'm yuompioka [jʊm'pɪɒkʌ]
-21 y.o. student learning computer engineering
+22 y.o. student learning computer engineering
 
 ## **Skillset**<br>
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=cplusplus)
